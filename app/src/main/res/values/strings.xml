@@ -10,4 +10,8 @@
     <string name="photo_photo_desc">Какие то описания фотографий</string>
     <string name="photo_projects_desc">Какие то описания проектов</string>
     <string name="photo_achievements_desc">Какие то описания достижений</string>
+    <string name="text_current_name">Никита</string>
+    <string name="text_current_age">22</string>
+    <string name="text_current_job">Android-разработчик</string>
+    <string name="text_music">Музыка</string>
 </resources>
